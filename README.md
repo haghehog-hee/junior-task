@@ -1,7 +1,7 @@
 
 # junior-task
 Result №1
-with following parameters: /n
+with following parameters:
 grid size = 40х40;
 coverage percentage = 0.3;
 budget = 15000;
