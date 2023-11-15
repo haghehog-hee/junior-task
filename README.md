@@ -1,6 +1,6 @@
 
 # junior-task
-Result №1
+# Result №1
 with following parameters:
 grid size = 40х40;
 coverage percentage = 0.3;
@@ -10,7 +10,7 @@ finding shortest path between towers 10 and 30;
 
 ![image](https://github.com/haghehog-hee/junior-task/assets/110155576/57a283b3-09ca-4bdf-94f1-4167cc86e9f2)
 
-Result №1
+# Result №2
 with following parameters:
 grid size = 30х30;
 coverage percentage = 0.5;
@@ -20,7 +20,7 @@ finding shortest path between towers 5 and 10;
 
 ![image](https://github.com/haghehog-hee/junior-task/assets/110155576/f39aeb1b-9c1e-4527-8d58-8d2c1cc3644e)
 
-Result №1
+# Result №3
 with following parameters:
 grid size = 30х30; 
 coverage percentage = 0.1;
